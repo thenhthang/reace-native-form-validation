@@ -1,7 +1,7 @@
 {
-  "name": "react-native-validator-form",
-  "version": "1.0.0",
-  "description": "Simple validator for react-native forms.",
+  "name": "@thenhthang/react-native-form-validation",
+  "version": "0.0.1",
+  "description": "React-native form validation",
   "main": "./lib/index.js",
   "scripts": {
     "build": "babel ./src -d ./lib --presets=react-native",
@@ -10,7 +10,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/NewOldMax/react-native-validator-form.git"
+    "url": "git+https://github.com/thenhthang/react-native-form-validation.git"
   },
   "keywords": [
     "react",
@@ -18,12 +18,12 @@
     "form",
     "validation"
   ],
-  "author": "NewOldMax",
+  "author": "Thenh Thang",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/NewOldMax/react-native-validator-form/issues"
+    "url": "https://github.com/thenhthang/react-native-form-validation/issues"
   },
-  "homepage": "https://github.com/NewOldMax/react-native-validator-form#readme",
+  "homepage": "https://github.com/thenhthang/react-native-form-validation#readme",
   "devDependencies": {
     "babel-cli": "^6.3.17",
     "babel-core": "^6.5.1",
