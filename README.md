@@ -4,8 +4,8 @@
 [![npm version](https://badge.fury.io/js/react-native-validator-form.svg)](https://badge.fury.io/js/react-native-validator-form)
 [![Build Status](https://travis-ci.org/NewOldMax/react-native-validator-form.svg?branch=master)](https://travis-ci.org/NewOldMax/react-native-validator-form)
 
-Simple form validation component for React-Native inspired by [formsy-react](https://github.com/christianalfoni/formsy-react).
-Web version: [react-material-ui-form-validator](https://github.com/NewOldMax/react-material-ui-form-validator)
+Simple form validation component for React-Native inspired by [formsy-react](https://github.com/thenhthang/react-native-form-validation).
+Web version: [react-material-ui-form-validator](https://github.com/thenhthang/react-native-form-validation)
 
 Unfortunately I don't have Mac, so this library is tested only on Android.
 
@@ -39,7 +39,7 @@ Some rules can accept extra parameter, example:
 
 ### Example
 
-<img src="https://raw.githubusercontent.com/NewOldMax/react-native-validator-form/master/examples/example.gif" width="285">
+<img src="https://raw.githubusercontent.com/thenhthang/react-native-form-validation/master/examples/example.gif" width="285">
 
 ### Usage
 
@@ -192,7 +192,7 @@ class ResetPasswordForm extends React.Component {
 }
 ````
 
-##### [Advanced usage](https://github.com/NewOldMax/react-native-validator-form/wiki)
+##### [Advanced usage](https://github.com/thenhthang/react-native-form-validation/wiki)
 
 ### API
 
