@@ -2,7 +2,10 @@
   "name": "@thenhthang/react-native-form-validation",
   "version": "0.0.1",
   "description": "React-native form validation",
-  "main": "./lib/index.js",
+  "main": "src/index.js",
+  "files": [
+    "src/"
+  ],
   "scripts": {
     "build": "babel ./src -d ./lib --presets=react-native",
     "prepublish": "npm run build",
