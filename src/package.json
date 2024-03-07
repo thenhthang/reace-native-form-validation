@@ -1,6 +1,6 @@
 {
   "name": "@thenhthang/react-native-form-validation",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "React-native form validation",
   "main": "src/index.js",
   "files": [
